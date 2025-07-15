@@ -1,6 +1,7 @@
 # Film Buddy
-
-<center><img src="https://i.imgur.com/M7w9RuH.png" width=400></center>
+<p align="center">
+<img src="https://i.imgur.com/M7w9RuH.png" width=400>
+</p>
 
 Presenting **Film Buddy**, a fully functional, visually appealing bot that streamlined entertainment information access for **500+** discord users in **100+** servers.
 
