@@ -1,4 +1,4 @@
-# <center>Film Buddy</center>
+# Film Buddy
 
 <center><img src="https://i.imgur.com/M7w9RuH.png" width=400></center>
 
