@@ -16,7 +16,7 @@ Presenting **Film Buddy**, a fully functional, visually appealing bot that strea
 	- Fetches TV Shows or Series Information.
 	- For example,
 	`/show Brooklyn 99`
-	<img src="README IMAGES/Brooklyn_Nine-Nine.png" width=500>
+	<img src="README Images/Brooklyn_Nine-Nine.png" width=500>
 3. `/currentres`
 	- Shows the current resolution of the images (1 to 4).
 4. `/setres`
