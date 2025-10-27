@@ -11,12 +11,12 @@ Presenting **Film Buddy**, a fully functional, visually appealing bot that strea
 	- Fetches movie information.
 	- For example,
 	`/movie The Conjuring`
-	<img src="README Images/The_Conjuring.png" width=500>
+	<center><img src="README Images/The_Conjuring.png" width=500></center>
 2. `/show`
 	- Fetches TV Shows or Series Information.
 	- For example,
 	`/show Brooklyn 99`
-	<img src="README Images/Brooklyn_Nine-Nine.png" width=500>
+	<center><img src="README Images/Brooklyn_Nine-Nine.png" width=500></center>
 3. `/currentres`
 	- Shows the current resolution of the images (1 to 4).
 4. `/setres`
