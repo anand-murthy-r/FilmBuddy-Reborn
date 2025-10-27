@@ -11,7 +11,7 @@ Presenting **Film Buddy**, a fully functional, visually appealing bot that strea
 	- Fetches movie information.
 	- For example,
 	`/movie The Conjuring`
-	<img src="https://cdn.discordapp.com/attachments/933210547460128804/951373814133043250/The_Conjuring.jpg?ex=6876a528&is=687553a8&hm=9f2d3471138726f6cccb01a42120536c095cb49a562b731c586c6f2bdcf18f23&" width=500>
+	<img src="README Images/The_Conjuring.png" width=500>
 2. `/show`
 	- Fetches TV Shows or Series Information.
 	- For example,
