@@ -40,8 +40,8 @@ Presenting **Film Buddy**, a fully functional, visually appealing bot that strea
 	- `git clone https://github.com/anand-murthy-r/FilmBuddy-Reborn.git` and then 
 	- `cd {directory_name}` to enter into the directory.
 2. In the **credential.json** file, replace wherever there is written *CLASSIFIED* with your own Firebase, TMDB and Discord Bot credentials.
-3. Film Buddy needs to meet some requirements before running the bot. In your terminal, type
+3. Your Firebase Realtime Database Project MUST HAVE a key named `img` which will be used to store `user_id` and `resolution_factor` (for `/setres`) 
+4. Film Buddy needs to meet some requirements before running the bot. In your terminal, type
 	`pip install -r requirements.txt` to install the necessary modules and packages.
-4. Finally, run the command `python main.py` to run the bot.
-
+5. Finally, run the command `python main.py` to run the bot.
 ---
