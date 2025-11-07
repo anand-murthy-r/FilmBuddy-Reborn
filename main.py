@@ -62,7 +62,7 @@ async def process(interaction,query,url,elem,page,guild_id):
             else:
                 datas.append(mov[page].get(i))
         movie_info = Designer(*datas)
-        print(datas)
+        # print(datas)
         image = await movie_info.design()
         with BytesIO() as binary:
             image.save(binary,'JPEG')
